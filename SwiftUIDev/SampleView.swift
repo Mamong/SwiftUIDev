@@ -98,7 +98,9 @@ struct SampleView: View {
                                 Text("Copied")
                                     .padding(8)
                                     .background(in: RoundedRectangle(cornerRadius: 8))
-                                    .allowsHitTesting(false).scaleEffect(showCopyTips ? 1.0:0.001)
+                                    .allowsHitTesting(false)
+                                ///https://stackoverflow.com/questions/72253021/what-is-this-odd-error-in-the-console-ignoring-singular-matrix
+                                    .scaleEffect(showCopyTips ? 1.0:0.001)
                                     .animation(.default, value: showCopyTips)
                             }
                             .offset(x:-25, y: 20)

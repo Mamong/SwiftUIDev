@@ -24,7 +24,7 @@ struct SearchView: View {
         NavigationStack {
             VStack(spacing: 0) {
                 if keyword.isEmpty {
-                    Text("Exact match, word is case insensitive").foregroundColor(.gray)
+                    Text("Exact match, word is case insensitive").foregroundStyle(.gray)
                 } else {
                     if scope == 0 {
                         articleListView

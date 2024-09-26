@@ -37,7 +37,7 @@ struct SampleListView: View {
             } label: {
                 HStack {
                     Image(systemName: "curlybraces")
-                    Text(item.name).foregroundColor(.primary)
+                    Text(item.name).foregroundStyle(.primary)
                 }
             }
         }

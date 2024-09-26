@@ -33,7 +33,7 @@ struct SettingsView: View {
                             showPopover = true
                         } label: {
                             HStack {
-                                Text("Article/sample status").foregroundColor(.primary)
+                                Text("Article/sample status").foregroundStyle(.foreground)
                                 Image(systemName: "questionmark.circle")
                             }
                         }
@@ -47,17 +47,16 @@ struct SettingsView: View {
                 Section("Support") {
                     ShareLink(item: url, subject: Text("Check out this link"), message: Text("If you want to learn Swift, take a look at this website.")) {
                         HStack {
-                            Text("Share").foregroundColor(.primary)
+                            Text("Share").foregroundStyle(.foreground)
                             Spacer()
                             Image(systemName: "square.and.arrow.up")
                         }
                     }
-
                     Button {
                         requestReview()
                     } label: {
                         HStack {
-                            Text("Review").foregroundColor(.primary)
+                            Text("Review").foregroundStyle(.foreground)
                             Spacer()
                             Image(systemName: "square.and.pencil")
                         }
@@ -65,7 +64,7 @@ struct SettingsView: View {
 
                     Link(destination: URL(string: "https://www.producthunt.com")!) {
                         HStack {
-                            Text("Vote").foregroundColor(.primary)
+                            Text("Vote").foregroundStyle(.foreground)
                             Spacer()
                             Image(systemName: "hand.thumbsup")
                         }
@@ -82,14 +81,14 @@ struct SettingsView: View {
                     }
                     Link(destination: URL(string: "tg://resolve?domain=swiftuidev")!) {
                         HStack {
-                            Text("\(Image(systemName: "paperplane"))").foregroundColor(.primary)
+                            Text("\(Image(systemName: "paperplane"))").foregroundStyle(.foreground)
                             Spacer()
                             Text("Telegram")
                         }
                     }
                     Link(destination: URL(string: "mailto:swiftuidev@gmail.com")!) {
                         HStack {
-                            Image(systemName: "envelope").foregroundColor(.primary)
+                            Image(systemName: "envelope").foregroundStyle(.foreground)
                             Spacer()
                             Text("swiftuidev@gmail.com")
                         }
@@ -134,7 +133,7 @@ struct UpdateStatusView: View {
                     }
                     HStack {
                         Image(systemName: "circle.fill")
-                            .foregroundColor(.purple)
+                            .foregroundStyle(.purple)
                             .overlay {
                                 Image(systemName: "alternatingcurrent")
                                     .foregroundStyle(.background)
