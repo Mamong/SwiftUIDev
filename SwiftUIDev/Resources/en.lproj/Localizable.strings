@@ -1,0 +1,48 @@
+/* 
+  Localizable.strings
+  SwiftUIDev
+
+  Created by tryao on 9/25/24.
+  
+*/
+
+"Home" = "Home";
+"Samples" = "Samples";
+"Search" = "Search";
+"Settings" = "Settings";
+"Done" = "Done";
+"Copied" = "Copied";
+
+/**Search*/
+"content search" = "content search";
+"global search" = "global search";
+"article" = "article";
+"sample" = "sample";
+"Exact match, word is case insensitive" = "Exact match, word is case insensitive";
+
+/**Settings*/
+"Appearance" = "Appearance";
+"system" = "system";
+"light" = "light";
+"dark" = "dark";
+"Article/sample status" = "Article/sample status";
+"Support" = "Support";
+"Share" = "Share";
+"Review" = "Review";
+"Vote" = "Vote";
+
+/**Update status*/
+"Add" = "Add";
+"Alter" = "Alter";
+"Status badge" = "Status badge";
+"Only show update status between recently two version" = "Only show update status between recently two version";
+"Update status description" = "Update status description";
+
+/**Settings*/
+"Contact" = "Contact";
+"Version Info" = "Version Info";
+"Version" = "Version";
+"Update log" = "Update log";
+"Recover purchase" = "Recover purchase";
+"Tips: all sample codes could be copied, preview and run in Xcode, which are the same as the source code of the samples." = "Tips: all sample codes could be copied, preview and run in Xcode, which are the same as the source code of the samples.";
+

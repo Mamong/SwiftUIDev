@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "markdownview",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Mamong/MarkdownView",
+      "state" : {
+        "branch" : "master",
+        "revision" : "ac1bb2614a982ca00229fece3711c04a57aed868"
+      }
+    }
+  ],
+  "version" : 2
+}

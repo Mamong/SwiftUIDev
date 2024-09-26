@@ -1,0 +1,48 @@
+/* 
+  Localizable.strings
+  SwiftUIDev
+
+  Created by tryao on 9/25/24.
+  
+*/
+
+"Home" = "首页";
+"Samples" = "例子";
+"Search" = "搜索";
+"Settings" = "设置";
+"Done" = "完成";
+"Copied" = "已复制";
+
+/**Search*/
+"content search" = "内容查找";
+"global search" = "全局搜索";
+"article" = "文章";
+"sample" = "示例";
+"Exact match, word is case insensitive" = "精确匹配，英文不区分大小写";
+
+/**Settings*/
+"Appearance" = "外观";
+"system" = "系统";
+"light" = "浅色";
+"dark" = "深色";
+"Article/sample status" = "文章/示例更新状态";
+"Support" = "支持";
+"Share" = "分享";
+"Review" = "评价";
+"Vote" = "点赞";
+
+/**Update status*/
+"Add" = "新增";
+"Alter" = "修改";
+"Status badge" = "状态标识";
+"Only show update status between recently two version" = "仅表示最近两个版本之间的更新状态";
+"Update status description" = "更新状态说明";
+
+/**Settings*/
+"Contact" = "联系方式";
+"Version Info" = "版本信息";
+"Version" = "当前版本";
+"Update log" = "更新日志";
+"Recover purchase" = "恢复购买";
+"Tips: all sample codes could be copied, preview and run in Xcode, which are the same as the source code of the samples." = "提示：所有的Sample代码直接copy后就可以在Xcode中预览和运行，copy的代码和示例背后的源码是完全一致的。";
+
