@@ -43,7 +43,7 @@ struct ContentView: View {
                 Label("Settings", systemImage: "gear")
             }
         }
-        .environment(\.locale,Locale(identifier: "zh"))
+//        .environment(\.locale,Locale(identifier: "zh"))
         .preferredColorScheme(appearance.colorScheme)
         .onAppear {
             MarkdownViewPool.shared.populate()

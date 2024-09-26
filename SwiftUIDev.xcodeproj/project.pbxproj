@@ -27,6 +27,7 @@
 		B19966FB2C971AA500965D41 /* Code.bundle in Resources */ = {isa = PBXBuildFile; fileRef = B19966FA2C971AA500965D41 /* Code.bundle */; };
 		B1AF836C2C9DC9D900374814 /* SearchWebView.js in Resources */ = {isa = PBXBuildFile; fileRef = B1AF836B2C9DC9D900374814 /* SearchWebView.js */; };
 		B1B092FC2CA52C5D007BC314 /* app_launch_screen.png in Resources */ = {isa = PBXBuildFile; fileRef = B1B092FB2CA52C5D007BC314 /* app_launch_screen.png */; };
+		B1B092FE2CA53AD9007BC314 /* macro-roles.png in Resources */ = {isa = PBXBuildFile; fileRef = B1B092FD2CA53AD9007BC314 /* macro-roles.png */; };
 		B1B3236A2CA465C200FA1B9E /* MarkdownView in Frameworks */ = {isa = PBXBuildFile; productRef = B1B323692CA465C200FA1B9E /* MarkdownView */; };
 		B1B3236D2CA4682400FA1B9E /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = B1B3236F2CA4682400FA1B9E /* Localizable.strings */; };
 		B1BB563B2C95698D008484FF /* SwiftUIDevApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1BB563A2C95698D008484FF /* SwiftUIDevApp.swift */; };
@@ -64,6 +65,7 @@
 		B1AF836B2C9DC9D900374814 /* SearchWebView.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = SearchWebView.js; sourceTree = "<group>"; };
 		B1B092FA2CA520A4007BC314 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		B1B092FB2CA52C5D007BC314 /* app_launch_screen.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = app_launch_screen.png; sourceTree = "<group>"; };
+		B1B092FD2CA53AD9007BC314 /* macro-roles.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "macro-roles.png"; sourceTree = "<group>"; };
 		B1B3236E2CA4682400FA1B9E /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Localizable.strings; sourceTree = "<group>"; };
 		B1B323702CA4682700FA1B9E /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "zh-Hans"; path = "zh-Hans.lproj/Localizable.strings"; sourceTree = "<group>"; };
 		B1BB56372C95698D008484FF /* SwiftUIDev.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftUIDev.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -99,6 +101,7 @@
 				B1944C2A2C9BF1F300A37A05 /* multiplatfom_app_1.png */,
 				B1944C392C9BF1F400A37A05 /* multiplatfom_app_2.png */,
 				B1944C482C9BF1F400A37A05 /* multiplatfom_app_3.png */,
+				B1B092FD2CA53AD9007BC314 /* macro-roles.png */,
 			);
 			path = images;
 			sourceTree = "<group>";
@@ -269,6 +272,7 @@
 				B19966D22C9719FA00965D41 /* 1.2.1.2 文本-Label.md in Resources */,
 				B19966C02C9719FA00965D41 /* 4.1 Swift 5.7 新特性.md in Resources */,
 				B19966B52C9719FA00965D41 /* 1.1.1 App 入口与配置.md in Resources */,
+				B1B092FE2CA53AD9007BC314 /* macro-roles.png in Resources */,
 				B1944C5D2C9BF1F500A37A05 /* multiplatfom_app_2.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
