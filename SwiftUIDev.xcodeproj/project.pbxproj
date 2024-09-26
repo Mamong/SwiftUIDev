@@ -49,78 +49,14 @@
 		B19965CA2C96D7C300965D41 /* SamplesView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B19965C92C96D7C300965D41 /* SamplesView.swift */; };
 		B19965CE2C96E59700965D41 /* SampleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B19965CD2C96E59700965D41 /* SampleView.swift */; };
 		B199664D2C97157200965D41 /* SampleText.swift in Sources */ = {isa = PBXBuildFile; fileRef = B19966002C97156D00965D41 /* SampleText.swift */; };
-		B19966AF2C9719FA00965D41 /* 1.3.6 列表（List）.md in Resources */ = {isa = PBXBuildFile; fileRef = B199666A2C9719F400965D41 /* 1.3.6 列表（List）.md */; };
-		B19966B02C9719FA00965D41 /* 1.3.2 堆叠（Stacks）.md in Resources */ = {isa = PBXBuildFile; fileRef = B199666B2C9719F400965D41 /* 1.3.2 堆叠（Stacks）.md */; };
-		B19966B12C9719FA00965D41 /* 2.1.1 Swift 并发新体验.md in Resources */ = {isa = PBXBuildFile; fileRef = B199666C2C9719F400965D41 /* 2.1.1 Swift 并发新体验.md */; };
-		B19966B22C9719FA00965D41 /* 1.1.3.0 TabView 的使用.md in Resources */ = {isa = PBXBuildFile; fileRef = B199666D2C9719F400965D41 /* 1.1.3.0 TabView 的使用.md */; };
-		B19966B32C9719FA00965D41 /* 1.4.1 形状（Shapes）的使用.md in Resources */ = {isa = PBXBuildFile; fileRef = B199666E2C9719F500965D41 /* 1.4.1 形状（Shapes）的使用.md */; };
-		B19966B42C9719FA00965D41 /* 1.4.6 动画原理.md in Resources */ = {isa = PBXBuildFile; fileRef = B199666F2C9719F500965D41 /* 1.4.6 动画原理.md */; };
 		B19966B52C9719FA00965D41 /* 1.1.1 App 入口与配置.md in Resources */ = {isa = PBXBuildFile; fileRef = B19966702C9719F500965D41 /* 1.1.1 App 入口与配置.md */; };
-		B19966B62C9719FA00965D41 /* 1.2.6 视图生命周期方法.md in Resources */ = {isa = PBXBuildFile; fileRef = B19966712C9719F500965D41 /* 1.2.6 视图生命周期方法.md */; };
-		B19966B72C9719FA00965D41 /* 1.1.3 SwiftUI 中的场景.md in Resources */ = {isa = PBXBuildFile; fileRef = B19966722C9719F500965D41 /* 1.1.3 SwiftUI 中的场景.md */; };
-		B19966B82C9719FA00965D41 /* 2.2.3 小结.md in Resources */ = {isa = PBXBuildFile; fileRef = B19966732C9719F500965D41 /* 2.2.3 小结.md */; };
-		B19966B92C9719FA00965D41 /* 3.3.2 内建 Subscriber 的使用.md in Resources */ = {isa = PBXBuildFile; fileRef = B19966742C9719F500965D41 /* 3.3.2 内建 Subscriber 的使用.md */; };
-		B19966BA2C9719FA00965D41 /* 1.4.4 基础动画.md in Resources */ = {isa = PBXBuildFile; fileRef = B19966752C9719F500965D41 /* 1.4.4 基础动画.md */; };
-		B19966BB2C9719FA00965D41 /* 3.2.1 Publisher 的基本使用（一）.md in Resources */ = {isa = PBXBuildFile; fileRef = B19966762C9719F500965D41 /* 3.2.1 Publisher 的基本使用（一）.md */; };
-		B19966BC2C9719FA00965D41 /* 1.2.2 图片.md in Resources */ = {isa = PBXBuildFile; fileRef = B19966772C9719F500965D41 /* 1.2.2 图片.md */; };
-		B19966BD2C9719FA00965D41 /* 1.4.7 动画的进阶使用.md in Resources */ = {isa = PBXBuildFile; fileRef = B19966782C9719F500965D41 /* 1.4.7 动画的进阶使用.md */; };
-		B19966BE2C9719FA00965D41 /* 1.3.1 SwiftUI 布局思想简介.md in Resources */ = {isa = PBXBuildFile; fileRef = B19966792C9719F500965D41 /* 1.3.1 SwiftUI 布局思想简介.md */; };
-		B19966BF2C9719FA00965D41 /* 1.2.4.4 控件-指示器.md in Resources */ = {isa = PBXBuildFile; fileRef = B199667A2C9719F500965D41 /* 1.2.4.4 控件-指示器.md */; };
 		B19966C02C9719FA00965D41 /* 4.1 Swift 5.7 新特性.md in Resources */ = {isa = PBXBuildFile; fileRef = B199667B2C9719F600965D41 /* 4.1 Swift 5.7 新特性.md */; };
-		B19966C12C9719FA00965D41 /* 1.5.1 常见手势.md in Resources */ = {isa = PBXBuildFile; fileRef = B199667C2C9719F600965D41 /* 1.5.1 常见手势.md */; };
 		B19966C22C9719FA00965D41 /* 4.4 Swift 5.8 新特性.md in Resources */ = {isa = PBXBuildFile; fileRef = B199667D2C9719F600965D41 /* 4.4 Swift 5.8 新特性.md */; };
 		B19966C32C9719FA00965D41 /* 4.5 Swift 5.9 新特性.md in Resources */ = {isa = PBXBuildFile; fileRef = B199667E2C9719F600965D41 /* 4.5 Swift 5.9 新特性.md */; };
-		B19966C42C9719FA00965D41 /* 1.2.8 使用 UIKit、AppKit.md in Resources */ = {isa = PBXBuildFile; fileRef = B199667F2C9719F600965D41 /* 1.2.8 使用 UIKit、AppKit.md */; };
-		B19966C52C9719FA00965D41 /* 2.1.3 SwiftUI 中常见的异步 API.md in Resources */ = {isa = PBXBuildFile; fileRef = B19966802C9719F600965D41 /* 2.1.3 SwiftUI 中常见的异步 API.md */; };
-		B19966C62C9719FA00965D41 /* 2.2.1 任务.md in Resources */ = {isa = PBXBuildFile; fileRef = B19966812C9719F600965D41 /* 2.2.1 任务.md */; };
-		B19966C72C9719FA00965D41 /* 1.3.3 布局的调整.md in Resources */ = {isa = PBXBuildFile; fileRef = B19966822C9719F600965D41 /* 1.3.3 布局的调整.md */; };
-		B19966C82C9719FA00965D41 /* 3.4.3 Operators 使用手册（三）.md in Resources */ = {isa = PBXBuildFile; fileRef = B19966832C9719F600965D41 /* 3.4.3 Operators 使用手册（三）.md */; };
-		B19966C92C9719FA00965D41 /* 1.1.3.2 导航之 NavigationSplitView.md in Resources */ = {isa = PBXBuildFile; fileRef = B19966842C9719F600965D41 /* 1.1.3.2 导航之 NavigationSplitView.md */; };
 		B19966CA2C9719FA00965D41 /* 1.2.1.1 文本-Text.md in Resources */ = {isa = PBXBuildFile; fileRef = B19966852C9719F600965D41 /* 1.2.1.1 文本-Text.md */; };
-		B19966CB2C9719FA00965D41 /* 1.4.5 转场动画.md in Resources */ = {isa = PBXBuildFile; fileRef = B19966862C9719F700965D41 /* 1.4.5 转场动画.md */; };
-		B19966CC2C9719FA00965D41 /* 1.2.3 视图样式与行为.md in Resources */ = {isa = PBXBuildFile; fileRef = B19966872C9719F700965D41 /* 1.2.3 视图样式与行为.md */; };
-		B19966CD2C9719FA00965D41 /* 2.3.2 异步流.md in Resources */ = {isa = PBXBuildFile; fileRef = B19966882C9719F700965D41 /* 2.3.2 异步流.md */; };
-		B19966CE2C9719FA00965D41 /* 1.3.11 SwiftUI 布局总结.md in Resources */ = {isa = PBXBuildFile; fileRef = B19966892C9719F700965D41 /* 1.3.11 SwiftUI 布局总结.md */; };
-		B19966CF2C9719FA00965D41 /* 1.2.4.5 控件-样式.md in Resources */ = {isa = PBXBuildFile; fileRef = B199668A2C9719F700965D41 /* 1.2.4.5 控件-样式.md */; };
-		B19966D02C9719FA00965D41 /* 3.1.1 Combine 概览.md in Resources */ = {isa = PBXBuildFile; fileRef = B199668B2C9719F700965D41 /* 3.1.1 Combine 概览.md */; };
-		B19966D12C9719FA00965D41 /* 1.1.3.1 导航之 NavigationStack.md in Resources */ = {isa = PBXBuildFile; fileRef = B199668C2C9719F700965D41 /* 1.1.3.1 导航之 NavigationStack.md */; };
 		B19966D22C9719FA00965D41 /* 1.2.1.2 文本-Label.md in Resources */ = {isa = PBXBuildFile; fileRef = B199668D2C9719F700965D41 /* 1.2.1.2 文本-Label.md */; };
-		B19966D32C9719FA00965D41 /* 1.1.4 SwiftUI 视图管理机制.md in Resources */ = {isa = PBXBuildFile; fileRef = B199668E2C9719F700965D41 /* 1.1.4 SwiftUI 视图管理机制.md */; };
-		B19966D42C9719FA00965D41 /* 1.2.1.3 文本-输入.md in Resources */ = {isa = PBXBuildFile; fileRef = B199668F2C9719F700965D41 /* 1.2.1.3 文本-输入.md */; };
-		B19966D52C9719FA00965D41 /* 1.2.4.2 控件-链接.md in Resources */ = {isa = PBXBuildFile; fileRef = B19966902C9719F700965D41 /* 1.2.4.2 控件-链接.md */; };
-		B19966D62C9719FA00965D41 /* 1.3.5 滑动视图（ScrollView）.md in Resources */ = {isa = PBXBuildFile; fileRef = B19966912C9719F700965D41 /* 1.3.5 滑动视图（ScrollView）.md */; };
-		B19966D72C9719FA00965D41 /* 2.4.1 actor 的使用.md in Resources */ = {isa = PBXBuildFile; fileRef = B19966922C9719F800965D41 /* 2.4.1 actor 的使用.md */; };
-		B19966D82C9719FA00965D41 /* 3.2.3 特殊的 Publisher：Subject.md in Resources */ = {isa = PBXBuildFile; fileRef = B19966932C9719F800965D41 /* 3.2.3 特殊的 Publisher：Subject.md */; };
-		B19966D92C9719FA00965D41 /* 1.2.7 自定义视图.md in Resources */ = {isa = PBXBuildFile; fileRef = B19966942C9719F800965D41 /* 1.2.7 自定义视图.md */; };
-		B19966DA2C9719FA00965D41 /* 1.1.2 生命周期的演变.md in Resources */ = {isa = PBXBuildFile; fileRef = B19966952C9719F800965D41 /* 1.1.2 生命周期的演变.md */; };
 		B19966DB2C9719FA00965D41 /* 4.3 Swift 中的 Result builders.md in Resources */ = {isa = PBXBuildFile; fileRef = B19966962C9719F800965D41 /* 4.3 Swift 中的 Result builders.md */; };
-		B19966DC2C9719FA00965D41 /* 1.2.4.3 控件-选择器.md in Resources */ = {isa = PBXBuildFile; fileRef = B19966972C9719F800965D41 /* 1.2.4.3 控件-选择器.md */; };
-		B19966DD2C9719FA00965D41 /* 1.5.3 自定义手势.md in Resources */ = {isa = PBXBuildFile; fileRef = B19966982C9719F800965D41 /* 1.5.3 自定义手势.md */; };
-		B19966DE2C9719FA00965D41 /* 3.2.2 Publisher 的基本使用（二）.md in Resources */ = {isa = PBXBuildFile; fileRef = B19966992C9719F800965D41 /* 3.2.2 Publisher 的基本使用（二）.md */; };
-		B19966DF2C9719FA00965D41 /* 2.3.1 异步序列.md in Resources */ = {isa = PBXBuildFile; fileRef = B199669A2C9719F800965D41 /* 2.3.1 异步序列.md */; };
-		B19966E02C9719FA00965D41 /* 1.1.3.3 模态（Modal）.md in Resources */ = {isa = PBXBuildFile; fileRef = B199669B2C9719F800965D41 /* 1.1.3.3 模态（Modal）.md */; };
-		B19966E12C9719FA00965D41 /* 3.4.1 Operators 使用手册（一）.md in Resources */ = {isa = PBXBuildFile; fileRef = B199669C2C9719F800965D41 /* 3.4.1 Operators 使用手册（一）.md */; };
-		B19966E22C9719FA00965D41 /* 1.1.3.4 工具栏（Toolbars）.md in Resources */ = {isa = PBXBuildFile; fileRef = B199669D2C9719F800965D41 /* 1.1.3.4 工具栏（Toolbars）.md */; };
-		B19966E32C9719FA00965D41 /* 1.1.5 SwiftUI 中的属性包装器.md in Resources */ = {isa = PBXBuildFile; fileRef = B199669E2C9719F800965D41 /* 1.1.5 SwiftUI 中的属性包装器.md */; };
-		B19966E42C9719FA00965D41 /* 1.3.9 自定义布局（Layout）.md in Resources */ = {isa = PBXBuildFile; fileRef = B199669F2C9719F800965D41 /* 1.3.9 自定义布局（Layout）.md */; };
-		B19966E52C9719FA00965D41 /* 3.3.1 Subscriber 的详细介绍.md in Resources */ = {isa = PBXBuildFile; fileRef = B19966A02C9719F800965D41 /* 3.3.1 Subscriber 的详细介绍.md */; };
-		B19966E62C9719FA00965D41 /* 1.3.8 共享布局信息.md in Resources */ = {isa = PBXBuildFile; fileRef = B19966A12C9719F900965D41 /* 1.3.8 共享布局信息.md */; };
-		B19966E72C9719FA00965D41 /* 1.5.2 手势的管理.md in Resources */ = {isa = PBXBuildFile; fileRef = B19966A22C9719F900965D41 /* 1.5.2 手势的管理.md */; };
-		B19966E82C9719FA00965D41 /* 1.2.5 菜单与命令.md in Resources */ = {isa = PBXBuildFile; fileRef = B19966A32C9719F900965D41 /* 1.2.5 菜单与命令.md */; };
-		B19966E92C9719FA00965D41 /* 1.3.4 格子（Grids）.md in Resources */ = {isa = PBXBuildFile; fileRef = B19966A42C9719F900965D41 /* 1.3.4 格子（Grids）.md */; };
-		B19966EA2C9719FA00965D41 /* 1.3.7 表格（Table）.md in Resources */ = {isa = PBXBuildFile; fileRef = B19966A52C9719F900965D41 /* 1.3.7 表格（Table）.md */; };
-		B19966EB2C9719FA00965D41 /* 1.4.2 图形的绘制.md in Resources */ = {isa = PBXBuildFile; fileRef = B19966A62C9719F900965D41 /* 1.4.2 图形的绘制.md */; };
-		B19966EC2C9719FA00965D41 /* 2.1.2 async、await 的使用.md in Resources */ = {isa = PBXBuildFile; fileRef = B19966A72C9719F900965D41 /* 2.1.2 async、await 的使用.md */; };
-		B19966ED2C9719FA00965D41 /* 2.2.2 任务组.md in Resources */ = {isa = PBXBuildFile; fileRef = B19966A82C9719F900965D41 /* 2.2.2 任务组.md */; };
 		B19966EE2C9719FA00965D41 /* 4.2 Swift 中的不透明类型和存在类型.md in Resources */ = {isa = PBXBuildFile; fileRef = B19966A92C9719F900965D41 /* 4.2 Swift 中的不透明类型和存在类型.md */; };
-		B19966EF2C9719FA00965D41 /* 1.4.3 图表（Charts）.md in Resources */ = {isa = PBXBuildFile; fileRef = B19966AA2C9719F900965D41 /* 1.4.3 图表（Charts）.md */; };
-		B19966F02C9719FA00965D41 /* 3.4.2 Operators 使用手册（二）.md in Resources */ = {isa = PBXBuildFile; fileRef = B19966AB2C9719F900965D41 /* 3.4.2 Operators 使用手册（二）.md */; };
-		B19966F12C9719FA00965D41 /* 1.2.4.1 控件-按钮.md in Resources */ = {isa = PBXBuildFile; fileRef = B19966AC2C9719F900965D41 /* 1.2.4.1 控件-按钮.md */; };
-		B19966F22C9719FA00965D41 /* 1.3.2.1 视图组.md in Resources */ = {isa = PBXBuildFile; fileRef = B19966AD2C9719F900965D41 /* 1.3.2.1 视图组.md */; };
-		B19966F32C9719FA00965D41 /* 2.4.2 @globalActor、@MainActor 的使用.md in Resources */ = {isa = PBXBuildFile; fileRef = B19966AE2C9719F900965D41 /* 2.4.2 @globalActor、@MainActor 的使用.md */; };
-		B19966F72C971A3400965D41 /* AppInfo.md in Resources */ = {isa = PBXBuildFile; fileRef = B19966F42C971A3400965D41 /* AppInfo.md */; };
-		B19966F82C971A3400965D41 /* README_origin.md in Resources */ = {isa = PBXBuildFile; fileRef = B19966F52C971A3400965D41 /* README_origin.md */; };
-		B19966F92C971A3400965D41 /* ReleaseNotes.md in Resources */ = {isa = PBXBuildFile; fileRef = B19966F62C971A3400965D41 /* ReleaseNotes.md */; };
 		B19966FB2C971AA500965D41 /* Code.bundle in Resources */ = {isa = PBXBuildFile; fileRef = B19966FA2C971AA500965D41 /* Code.bundle */; };
 		B1AF836C2C9DC9D900374814 /* SearchWebView.js in Resources */ = {isa = PBXBuildFile; fileRef = B1AF836B2C9DC9D900374814 /* SearchWebView.js */; };
 		B1B092FC2CA52C5D007BC314 /* app_launch_screen.png in Resources */ = {isa = PBXBuildFile; fileRef = B1B092FB2CA52C5D007BC314 /* app_launch_screen.png */; };
@@ -182,78 +118,14 @@
 		B19965C92C96D7C300965D41 /* SamplesView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SamplesView.swift; sourceTree = "<group>"; };
 		B19965CD2C96E59700965D41 /* SampleView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SampleView.swift; sourceTree = "<group>"; };
 		B19966002C97156D00965D41 /* SampleText.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SampleText.swift; sourceTree = "<group>"; };
-		B199666A2C9719F400965D41 /* 1.3.6 列表（List）.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = "1.3.6 列表（List）.md"; sourceTree = "<group>"; };
-		B199666B2C9719F400965D41 /* 1.3.2 堆叠（Stacks）.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = "1.3.2 堆叠（Stacks）.md"; sourceTree = "<group>"; };
-		B199666C2C9719F400965D41 /* 2.1.1 Swift 并发新体验.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = "2.1.1 Swift 并发新体验.md"; sourceTree = "<group>"; };
-		B199666D2C9719F400965D41 /* 1.1.3.0 TabView 的使用.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = "1.1.3.0 TabView 的使用.md"; sourceTree = "<group>"; };
-		B199666E2C9719F500965D41 /* 1.4.1 形状（Shapes）的使用.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = "1.4.1 形状（Shapes）的使用.md"; sourceTree = "<group>"; };
-		B199666F2C9719F500965D41 /* 1.4.6 动画原理.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = "1.4.6 动画原理.md"; sourceTree = "<group>"; };
 		B19966702C9719F500965D41 /* 1.1.1 App 入口与配置.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = "1.1.1 App 入口与配置.md"; sourceTree = "<group>"; };
-		B19966712C9719F500965D41 /* 1.2.6 视图生命周期方法.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = "1.2.6 视图生命周期方法.md"; sourceTree = "<group>"; };
-		B19966722C9719F500965D41 /* 1.1.3 SwiftUI 中的场景.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = "1.1.3 SwiftUI 中的场景.md"; sourceTree = "<group>"; };
-		B19966732C9719F500965D41 /* 2.2.3 小结.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = "2.2.3 小结.md"; sourceTree = "<group>"; };
-		B19966742C9719F500965D41 /* 3.3.2 内建 Subscriber 的使用.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = "3.3.2 内建 Subscriber 的使用.md"; sourceTree = "<group>"; };
-		B19966752C9719F500965D41 /* 1.4.4 基础动画.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = "1.4.4 基础动画.md"; sourceTree = "<group>"; };
-		B19966762C9719F500965D41 /* 3.2.1 Publisher 的基本使用（一）.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = "3.2.1 Publisher 的基本使用（一）.md"; sourceTree = "<group>"; };
-		B19966772C9719F500965D41 /* 1.2.2 图片.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = "1.2.2 图片.md"; sourceTree = "<group>"; };
-		B19966782C9719F500965D41 /* 1.4.7 动画的进阶使用.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = "1.4.7 动画的进阶使用.md"; sourceTree = "<group>"; };
-		B19966792C9719F500965D41 /* 1.3.1 SwiftUI 布局思想简介.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = "1.3.1 SwiftUI 布局思想简介.md"; sourceTree = "<group>"; };
-		B199667A2C9719F500965D41 /* 1.2.4.4 控件-指示器.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = "1.2.4.4 控件-指示器.md"; sourceTree = "<group>"; };
 		B199667B2C9719F600965D41 /* 4.1 Swift 5.7 新特性.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = "4.1 Swift 5.7 新特性.md"; sourceTree = "<group>"; };
-		B199667C2C9719F600965D41 /* 1.5.1 常见手势.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = "1.5.1 常见手势.md"; sourceTree = "<group>"; };
 		B199667D2C9719F600965D41 /* 4.4 Swift 5.8 新特性.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = "4.4 Swift 5.8 新特性.md"; sourceTree = "<group>"; };
 		B199667E2C9719F600965D41 /* 4.5 Swift 5.9 新特性.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = "4.5 Swift 5.9 新特性.md"; sourceTree = "<group>"; };
-		B199667F2C9719F600965D41 /* 1.2.8 使用 UIKit、AppKit.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = "1.2.8 使用 UIKit、AppKit.md"; sourceTree = "<group>"; };
-		B19966802C9719F600965D41 /* 2.1.3 SwiftUI 中常见的异步 API.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = "2.1.3 SwiftUI 中常见的异步 API.md"; sourceTree = "<group>"; };
-		B19966812C9719F600965D41 /* 2.2.1 任务.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = "2.2.1 任务.md"; sourceTree = "<group>"; };
-		B19966822C9719F600965D41 /* 1.3.3 布局的调整.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = "1.3.3 布局的调整.md"; sourceTree = "<group>"; };
-		B19966832C9719F600965D41 /* 3.4.3 Operators 使用手册（三）.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = "3.4.3 Operators 使用手册（三）.md"; sourceTree = "<group>"; };
-		B19966842C9719F600965D41 /* 1.1.3.2 导航之 NavigationSplitView.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = "1.1.3.2 导航之 NavigationSplitView.md"; sourceTree = "<group>"; };
 		B19966852C9719F600965D41 /* 1.2.1.1 文本-Text.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = "1.2.1.1 文本-Text.md"; sourceTree = "<group>"; };
-		B19966862C9719F700965D41 /* 1.4.5 转场动画.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = "1.4.5 转场动画.md"; sourceTree = "<group>"; };
-		B19966872C9719F700965D41 /* 1.2.3 视图样式与行为.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = "1.2.3 视图样式与行为.md"; sourceTree = "<group>"; };
-		B19966882C9719F700965D41 /* 2.3.2 异步流.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = "2.3.2 异步流.md"; sourceTree = "<group>"; };
-		B19966892C9719F700965D41 /* 1.3.11 SwiftUI 布局总结.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = "1.3.11 SwiftUI 布局总结.md"; sourceTree = "<group>"; };
-		B199668A2C9719F700965D41 /* 1.2.4.5 控件-样式.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = "1.2.4.5 控件-样式.md"; sourceTree = "<group>"; };
-		B199668B2C9719F700965D41 /* 3.1.1 Combine 概览.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = "3.1.1 Combine 概览.md"; sourceTree = "<group>"; };
-		B199668C2C9719F700965D41 /* 1.1.3.1 导航之 NavigationStack.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = "1.1.3.1 导航之 NavigationStack.md"; sourceTree = "<group>"; };
 		B199668D2C9719F700965D41 /* 1.2.1.2 文本-Label.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = "1.2.1.2 文本-Label.md"; sourceTree = "<group>"; };
-		B199668E2C9719F700965D41 /* 1.1.4 SwiftUI 视图管理机制.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = "1.1.4 SwiftUI 视图管理机制.md"; sourceTree = "<group>"; };
-		B199668F2C9719F700965D41 /* 1.2.1.3 文本-输入.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = "1.2.1.3 文本-输入.md"; sourceTree = "<group>"; };
-		B19966902C9719F700965D41 /* 1.2.4.2 控件-链接.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = "1.2.4.2 控件-链接.md"; sourceTree = "<group>"; };
-		B19966912C9719F700965D41 /* 1.3.5 滑动视图（ScrollView）.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = "1.3.5 滑动视图（ScrollView）.md"; sourceTree = "<group>"; };
-		B19966922C9719F800965D41 /* 2.4.1 actor 的使用.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = "2.4.1 actor 的使用.md"; sourceTree = "<group>"; };
-		B19966932C9719F800965D41 /* 3.2.3 特殊的 Publisher：Subject.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = "3.2.3 特殊的 Publisher：Subject.md"; sourceTree = "<group>"; };
-		B19966942C9719F800965D41 /* 1.2.7 自定义视图.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = "1.2.7 自定义视图.md"; sourceTree = "<group>"; };
-		B19966952C9719F800965D41 /* 1.1.2 生命周期的演变.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = "1.1.2 生命周期的演变.md"; sourceTree = "<group>"; };
 		B19966962C9719F800965D41 /* 4.3 Swift 中的 Result builders.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = "4.3 Swift 中的 Result builders.md"; sourceTree = "<group>"; };
-		B19966972C9719F800965D41 /* 1.2.4.3 控件-选择器.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = "1.2.4.3 控件-选择器.md"; sourceTree = "<group>"; };
-		B19966982C9719F800965D41 /* 1.5.3 自定义手势.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = "1.5.3 自定义手势.md"; sourceTree = "<group>"; };
-		B19966992C9719F800965D41 /* 3.2.2 Publisher 的基本使用（二）.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = "3.2.2 Publisher 的基本使用（二）.md"; sourceTree = "<group>"; };
-		B199669A2C9719F800965D41 /* 2.3.1 异步序列.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = "2.3.1 异步序列.md"; sourceTree = "<group>"; };
-		B199669B2C9719F800965D41 /* 1.1.3.3 模态（Modal）.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = "1.1.3.3 模态（Modal）.md"; sourceTree = "<group>"; };
-		B199669C2C9719F800965D41 /* 3.4.1 Operators 使用手册（一）.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = "3.4.1 Operators 使用手册（一）.md"; sourceTree = "<group>"; };
-		B199669D2C9719F800965D41 /* 1.1.3.4 工具栏（Toolbars）.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = "1.1.3.4 工具栏（Toolbars）.md"; sourceTree = "<group>"; };
-		B199669E2C9719F800965D41 /* 1.1.5 SwiftUI 中的属性包装器.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = "1.1.5 SwiftUI 中的属性包装器.md"; sourceTree = "<group>"; };
-		B199669F2C9719F800965D41 /* 1.3.9 自定义布局（Layout）.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = "1.3.9 自定义布局（Layout）.md"; sourceTree = "<group>"; };
-		B19966A02C9719F800965D41 /* 3.3.1 Subscriber 的详细介绍.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = "3.3.1 Subscriber 的详细介绍.md"; sourceTree = "<group>"; };
-		B19966A12C9719F900965D41 /* 1.3.8 共享布局信息.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = "1.3.8 共享布局信息.md"; sourceTree = "<group>"; };
-		B19966A22C9719F900965D41 /* 1.5.2 手势的管理.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = "1.5.2 手势的管理.md"; sourceTree = "<group>"; };
-		B19966A32C9719F900965D41 /* 1.2.5 菜单与命令.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = "1.2.5 菜单与命令.md"; sourceTree = "<group>"; };
-		B19966A42C9719F900965D41 /* 1.3.4 格子（Grids）.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = "1.3.4 格子（Grids）.md"; sourceTree = "<group>"; };
-		B19966A52C9719F900965D41 /* 1.3.7 表格（Table）.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = "1.3.7 表格（Table）.md"; sourceTree = "<group>"; };
-		B19966A62C9719F900965D41 /* 1.4.2 图形的绘制.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = "1.4.2 图形的绘制.md"; sourceTree = "<group>"; };
-		B19966A72C9719F900965D41 /* 2.1.2 async、await 的使用.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = "2.1.2 async、await 的使用.md"; sourceTree = "<group>"; };
-		B19966A82C9719F900965D41 /* 2.2.2 任务组.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = "2.2.2 任务组.md"; sourceTree = "<group>"; };
 		B19966A92C9719F900965D41 /* 4.2 Swift 中的不透明类型和存在类型.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = "4.2 Swift 中的不透明类型和存在类型.md"; sourceTree = "<group>"; };
-		B19966AA2C9719F900965D41 /* 1.4.3 图表（Charts）.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = "1.4.3 图表（Charts）.md"; sourceTree = "<group>"; };
-		B19966AB2C9719F900965D41 /* 3.4.2 Operators 使用手册（二）.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = "3.4.2 Operators 使用手册（二）.md"; sourceTree = "<group>"; };
-		B19966AC2C9719F900965D41 /* 1.2.4.1 控件-按钮.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = "1.2.4.1 控件-按钮.md"; sourceTree = "<group>"; };
-		B19966AD2C9719F900965D41 /* 1.3.2.1 视图组.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = "1.3.2.1 视图组.md"; sourceTree = "<group>"; };
-		B19966AE2C9719F900965D41 /* 2.4.2 @globalActor、@MainActor 的使用.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = "2.4.2 @globalActor、@MainActor 的使用.md"; sourceTree = "<group>"; };
-		B19966F42C971A3400965D41 /* AppInfo.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = AppInfo.md; sourceTree = "<group>"; };
-		B19966F52C971A3400965D41 /* README_origin.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README_origin.md; sourceTree = "<group>"; };
-		B19966F62C971A3400965D41 /* ReleaseNotes.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = ReleaseNotes.md; sourceTree = "<group>"; };
 		B19966FA2C971AA500965D41 /* Code.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = Code.bundle; sourceTree = "<group>"; };
 		B1AF836B2C9DC9D900374814 /* SearchWebView.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = SearchWebView.js; sourceTree = "<group>"; };
 		B1B092FA2CA520A4007BC314 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
@@ -345,69 +217,8 @@
 			children = (
 				B1944C242C9BF01D00A37A05 /* images */,
 				B19966702C9719F500965D41 /* 1.1.1 App 入口与配置.md */,
-				B19966952C9719F800965D41 /* 1.1.2 生命周期的演变.md */,
-				B19966722C9719F500965D41 /* 1.1.3 SwiftUI 中的场景.md */,
-				B199666D2C9719F400965D41 /* 1.1.3.0 TabView 的使用.md */,
-				B199668C2C9719F700965D41 /* 1.1.3.1 导航之 NavigationStack.md */,
-				B19966842C9719F600965D41 /* 1.1.3.2 导航之 NavigationSplitView.md */,
-				B199669B2C9719F800965D41 /* 1.1.3.3 模态（Modal）.md */,
-				B199669D2C9719F800965D41 /* 1.1.3.4 工具栏（Toolbars）.md */,
-				B199668E2C9719F700965D41 /* 1.1.4 SwiftUI 视图管理机制.md */,
-				B199669E2C9719F800965D41 /* 1.1.5 SwiftUI 中的属性包装器.md */,
 				B19966852C9719F600965D41 /* 1.2.1.1 文本-Text.md */,
 				B199668D2C9719F700965D41 /* 1.2.1.2 文本-Label.md */,
-				B199668F2C9719F700965D41 /* 1.2.1.3 文本-输入.md */,
-				B19966772C9719F500965D41 /* 1.2.2 图片.md */,
-				B19966872C9719F700965D41 /* 1.2.3 视图样式与行为.md */,
-				B19966AC2C9719F900965D41 /* 1.2.4.1 控件-按钮.md */,
-				B19966902C9719F700965D41 /* 1.2.4.2 控件-链接.md */,
-				B19966972C9719F800965D41 /* 1.2.4.3 控件-选择器.md */,
-				B199667A2C9719F500965D41 /* 1.2.4.4 控件-指示器.md */,
-				B199668A2C9719F700965D41 /* 1.2.4.5 控件-样式.md */,
-				B19966A32C9719F900965D41 /* 1.2.5 菜单与命令.md */,
-				B19966712C9719F500965D41 /* 1.2.6 视图生命周期方法.md */,
-				B19966942C9719F800965D41 /* 1.2.7 自定义视图.md */,
-				B199667F2C9719F600965D41 /* 1.2.8 使用 UIKit、AppKit.md */,
-				B19966792C9719F500965D41 /* 1.3.1 SwiftUI 布局思想简介.md */,
-				B199666B2C9719F400965D41 /* 1.3.2 堆叠（Stacks）.md */,
-				B19966AD2C9719F900965D41 /* 1.3.2.1 视图组.md */,
-				B19966822C9719F600965D41 /* 1.3.3 布局的调整.md */,
-				B19966A42C9719F900965D41 /* 1.3.4 格子（Grids）.md */,
-				B19966912C9719F700965D41 /* 1.3.5 滑动视图（ScrollView）.md */,
-				B199666A2C9719F400965D41 /* 1.3.6 列表（List）.md */,
-				B19966A52C9719F900965D41 /* 1.3.7 表格（Table）.md */,
-				B19966A12C9719F900965D41 /* 1.3.8 共享布局信息.md */,
-				B199669F2C9719F800965D41 /* 1.3.9 自定义布局（Layout）.md */,
-				B19966892C9719F700965D41 /* 1.3.11 SwiftUI 布局总结.md */,
-				B199666E2C9719F500965D41 /* 1.4.1 形状（Shapes）的使用.md */,
-				B19966A62C9719F900965D41 /* 1.4.2 图形的绘制.md */,
-				B19966AA2C9719F900965D41 /* 1.4.3 图表（Charts）.md */,
-				B19966752C9719F500965D41 /* 1.4.4 基础动画.md */,
-				B19966862C9719F700965D41 /* 1.4.5 转场动画.md */,
-				B199666F2C9719F500965D41 /* 1.4.6 动画原理.md */,
-				B19966782C9719F500965D41 /* 1.4.7 动画的进阶使用.md */,
-				B199667C2C9719F600965D41 /* 1.5.1 常见手势.md */,
-				B19966A22C9719F900965D41 /* 1.5.2 手势的管理.md */,
-				B19966982C9719F800965D41 /* 1.5.3 自定义手势.md */,
-				B199666C2C9719F400965D41 /* 2.1.1 Swift 并发新体验.md */,
-				B19966A72C9719F900965D41 /* 2.1.2 async、await 的使用.md */,
-				B19966802C9719F600965D41 /* 2.1.3 SwiftUI 中常见的异步 API.md */,
-				B19966812C9719F600965D41 /* 2.2.1 任务.md */,
-				B19966A82C9719F900965D41 /* 2.2.2 任务组.md */,
-				B19966732C9719F500965D41 /* 2.2.3 小结.md */,
-				B199669A2C9719F800965D41 /* 2.3.1 异步序列.md */,
-				B19966882C9719F700965D41 /* 2.3.2 异步流.md */,
-				B19966922C9719F800965D41 /* 2.4.1 actor 的使用.md */,
-				B19966AE2C9719F900965D41 /* 2.4.2 @globalActor、@MainActor 的使用.md */,
-				B199668B2C9719F700965D41 /* 3.1.1 Combine 概览.md */,
-				B19966762C9719F500965D41 /* 3.2.1 Publisher 的基本使用（一）.md */,
-				B19966992C9719F800965D41 /* 3.2.2 Publisher 的基本使用（二）.md */,
-				B19966932C9719F800965D41 /* 3.2.3 特殊的 Publisher：Subject.md */,
-				B19966A02C9719F800965D41 /* 3.3.1 Subscriber 的详细介绍.md */,
-				B19966742C9719F500965D41 /* 3.3.2 内建 Subscriber 的使用.md */,
-				B199669C2C9719F800965D41 /* 3.4.1 Operators 使用手册（一）.md */,
-				B19966AB2C9719F900965D41 /* 3.4.2 Operators 使用手册（二）.md */,
-				B19966832C9719F600965D41 /* 3.4.3 Operators 使用手册（三）.md */,
 				B199667B2C9719F600965D41 /* 4.1 Swift 5.7 新特性.md */,
 				B19966A92C9719F900965D41 /* 4.2 Swift 中的不透明类型和存在类型.md */,
 				B19966962C9719F800965D41 /* 4.3 Swift 中的 Result builders.md */,
@@ -447,9 +258,6 @@
 		B1BB56392C95698D008484FF /* SwiftUIDev */ = {
 			isa = PBXGroup;
 			children = (
-				B19966F42C971A3400965D41 /* AppInfo.md */,
-				B19966F52C971A3400965D41 /* README_origin.md */,
-				B19966F62C971A3400965D41 /* ReleaseNotes.md */,
 				B19966692C9719B700965D41 /* Markdowns */,
 				B19965C82C96D68900965D41 /* SampleCode */,
 				B1BB563A2C95698D008484FF /* SwiftUIDevApp.swift */,
@@ -547,117 +355,53 @@
 				B1944C6F2C9BF1F500A37A05 /* drop_first_2.png in Resources */,
 				B1944C702C9BF1F500A37A05 /* scene_3.png in Resources */,
 				B1944C6C2C9BF1F500A37A05 /* multiplatfom_app_3.png in Resources */,
-				B19966C72C9719FA00965D41 /* 1.3.3 布局的调整.md in Resources */,
-				B19966F32C9719FA00965D41 /* 2.4.2 @globalActor、@MainActor 的使用.md in Resources */,
-				B19966D62C9719FA00965D41 /* 1.3.5 滑动视图（ScrollView）.md in Resources */,
 				B1944C542C9BF1F500A37A05 /* connectablePublisher_2.png in Resources */,
 				B1944C632C9BF1F500A37A05 /* map.png in Resources */,
-				B19966DF2C9719FA00965D41 /* 2.3.1 异步序列.md in Resources */,
-				B19966D52C9719FA00965D41 /* 1.2.4.2 控件-链接.md in Resources */,
-				B19966BC2C9719FA00965D41 /* 1.2.2 图片.md in Resources */,
 				B1B3236D2CA4682400FA1B9E /* Localizable.strings in Resources */,
-				B19966B02C9719FA00965D41 /* 1.3.2 堆叠（Stacks）.md in Resources */,
 				B1944C6A2C9BF1F500A37A05 /* reduce.png in Resources */,
-				B19966E12C9719FA00965D41 /* 3.4.1 Operators 使用手册（一）.md in Resources */,
 				B1BB56422C95698F008484FF /* Preview Assets.xcassets in Resources */,
 				B1944C682C9BF1F500A37A05 /* scene_2.png in Resources */,
 				B19966C22C9719FA00965D41 /* 4.4 Swift 5.8 新特性.md in Resources */,
 				B19966FB2C971AA500965D41 /* Code.bundle in Resources */,
-				B19966D32C9719FA00965D41 /* 1.1.4 SwiftUI 视图管理机制.md in Resources */,
 				B1944C6D2C9BF1F500A37A05 /* async_await.png in Resources */,
 				B19966EE2C9719FA00965D41 /* 4.2 Swift 中的不透明类型和存在类型.md in Resources */,
-				B19966DC2C9719FA00965D41 /* 1.2.4.3 控件-选择器.md in Resources */,
-				B19966CE2C9719FA00965D41 /* 1.3.11 SwiftUI 布局总结.md in Resources */,
-				B19966E22C9719FA00965D41 /* 1.1.3.4 工具栏（Toolbars）.md in Resources */,
-				B19966E92C9719FA00965D41 /* 1.3.4 格子（Grids）.md in Resources */,
 				B1944C602C9BF1F500A37A05 /* refactor_to_async.png in Resources */,
 				B1944C572C9BF1F500A37A05 /* remove_duplicates.png in Resources */,
 				B1944C642C9BF1F500A37A05 /* drop_until_output_from.png in Resources */,
-				B19966DD2C9719FA00965D41 /* 1.5.3 自定义手势.md in Resources */,
 				B1944C552C9BF1F500A37A05 /* concurrency_diff.png in Resources */,
 				B1BB563F2C95698F008484FF /* Assets.xcassets in Resources */,
-				B19966E62C9719FA00965D41 /* 1.3.8 共享布局信息.md in Resources */,
-				B19966D12C9719FA00965D41 /* 1.1.3.1 导航之 NavigationStack.md in Resources */,
-				B19966C42C9719FA00965D41 /* 1.2.8 使用 UIKit、AppKit.md in Resources */,
 				B1944C662C9BF1F500A37A05 /* merge.png in Resources */,
 				B1B092FC2CA52C5D007BC314 /* app_launch_screen.png in Resources */,
-				B19966DA2C9719FA00965D41 /* 1.1.2 生命周期的演变.md in Resources */,
-				B19966BE2C9719FA00965D41 /* 1.3.1 SwiftUI 布局思想简介.md in Resources */,
-				B19966F22C9719FA00965D41 /* 1.3.2.1 视图组.md in Resources */,
-				B19966BB2C9719FA00965D41 /* 3.2.1 Publisher 的基本使用（一）.md in Resources */,
 				B1944C5F2C9BF1F500A37A05 /* contains.png in Resources */,
-				B19966B42C9719FA00965D41 /* 1.4.6 动画原理.md in Resources */,
-				B19966E42C9719FA00965D41 /* 1.3.9 自定义布局（Layout）.md in Resources */,
 				B1944C652C9BF1F500A37A05 /* first.png in Resources */,
 				B19966C32C9719FA00965D41 /* 4.5 Swift 5.9 新特性.md in Resources */,
-				B19966BF2C9719FA00965D41 /* 1.2.4.4 控件-指示器.md in Resources */,
-				B19966E02C9719FA00965D41 /* 1.1.3.3 模态（Modal）.md in Resources */,
 				B1944C582C9BF1F500A37A05 /* debounce.png in Resources */,
-				B19966C62C9719FA00965D41 /* 2.2.1 任务.md in Resources */,
-				B19966E52C9719FA00965D41 /* 3.3.1 Subscriber 的详细介绍.md in Resources */,
-				B19966D02C9719FA00965D41 /* 3.1.1 Combine 概览.md in Resources */,
-				B19966BD2C9719FA00965D41 /* 1.4.7 动画的进阶使用.md in Resources */,
-				B19966D82C9719FA00965D41 /* 3.2.3 特殊的 Publisher：Subject.md in Resources */,
 				B1944C5E2C9BF1F500A37A05 /* async_let.png in Resources */,
-				B19966B32C9719FA00965D41 /* 1.4.1 形状（Shapes）的使用.md in Resources */,
-				B19966CD2C9719FA00965D41 /* 2.3.2 异步流.md in Resources */,
 				B1944C692C9BF1F500A37A05 /* throttle.png in Resources */,
-				B19966B72C9719FA00965D41 /* 1.1.3 SwiftUI 中的场景.md in Resources */,
-				B19966F02C9719FA00965D41 /* 3.4.2 Operators 使用手册（二）.md in Resources */,
 				B1AF836C2C9DC9D900374814 /* SearchWebView.js in Resources */,
 				B1944C6E2C9BF1F500A37A05 /* max.png in Resources */,
-				B19966B92C9719FA00965D41 /* 3.3.2 内建 Subscriber 的使用.md in Resources */,
 				B19966CA2C9719FA00965D41 /* 1.2.1.1 文本-Text.md in Resources */,
-				B19966EF2C9719FA00965D41 /* 1.4.3 图表（Charts）.md in Resources */,
-				B19966AF2C9719FA00965D41 /* 1.3.6 列表（List）.md in Resources */,
 				B1944C4F2C9BF1F500A37A05 /* drop_first.png in Resources */,
-				B19966ED2C9719FA00965D41 /* 2.2.2 任务组.md in Resources */,
 				B19966DB2C9719FA00965D41 /* 4.3 Swift 中的 Result builders.md in Resources */,
 				B1944C5C2C9BF1F500A37A05 /* try_map.png in Resources */,
 				B1944C5B2C9BF1F500A37A05 /* replace_nil.png in Resources */,
-				B19966E32C9719FA00965D41 /* 1.1.5 SwiftUI 中的属性包装器.md in Resources */,
-				B19966F72C971A3400965D41 /* AppInfo.md in Resources */,
-				B19966EC2C9719FA00965D41 /* 2.1.2 async、await 的使用.md in Resources */,
-				B19966D42C9719FA00965D41 /* 1.2.1.3 文本-输入.md in Resources */,
-				B19966B82C9719FA00965D41 /* 2.2.3 小结.md in Resources */,
 				B1944C6B2C9BF1F500A37A05 /* zip.png in Resources */,
-				B19966EB2C9719FA00965D41 /* 1.4.2 图形的绘制.md in Resources */,
-				B19966B12C9719FA00965D41 /* 2.1.1 Swift 并发新体验.md in Resources */,
 				B1944C612C9BF1F500A37A05 /* scene_1.png in Resources */,
 				B1944C672C9BF1F500A37A05 /* actor.png in Resources */,
 				B1944C5A2C9BF1F500A37A05 /* count.png in Resources */,
-				B19966C92C9719FA00965D41 /* 1.1.3.2 导航之 NavigationSplitView.md in Resources */,
-				B19966D72C9719FA00965D41 /* 2.4.1 actor 的使用.md in Resources */,
 				B1944C522C9BF1F500A37A05 /* inspector_placement.png in Resources */,
-				B19966B22C9719FA00965D41 /* 1.1.3.0 TabView 的使用.md in Resources */,
-				B19966E72C9719FA00965D41 /* 1.5.2 手势的管理.md in Resources */,
-				B19966CB2C9719FA00965D41 /* 1.4.5 转场动画.md in Resources */,
 				B1944C4E2C9BF1F500A37A05 /* multiplatfom_app_1.png in Resources */,
-				B19966C52C9719FA00965D41 /* 2.1.3 SwiftUI 中常见的异步 API.md in Resources */,
-				B19966F82C971A3400965D41 /* README_origin.md in Resources */,
-				B19966C82C9719FA00965D41 /* 3.4.3 Operators 使用手册（三）.md in Resources */,
 				B1944C4D2C9BF1F500A37A05 /* sf_symbols_1.png in Resources */,
-				B19966C12C9719FA00965D41 /* 1.5.1 常见手势.md in Resources */,
-				B19966B62C9719FA00965D41 /* 1.2.6 视图生命周期方法.md in Resources */,
 				B1944C622C9BF1F500A37A05 /* macro-roles.png in Resources */,
-				B19966F92C971A3400965D41 /* ReleaseNotes.md in Resources */,
 				B1944C502C9BF1F500A37A05 /* combine_latest.png in Resources */,
-				B19966F12C9719FA00965D41 /* 1.2.4.1 控件-按钮.md in Resources */,
 				B19966D22C9719FA00965D41 /* 1.2.1.2 文本-Label.md in Resources */,
-				B19966CF2C9719FA00965D41 /* 1.2.4.5 控件-样式.md in Resources */,
 				B19966C02C9719FA00965D41 /* 4.1 Swift 5.7 新特性.md in Resources */,
-				B19966BA2C9719FA00965D41 /* 1.4.4 基础动画.md in Resources */,
 				B1944C512C9BF1F500A37A05 /* subscribe.png in Resources */,
 				B1944C592C9BF1F500A37A05 /* stacks_1.png in Resources */,
 				B1944C562C9BF1F500A37A05 /* publisher_subscriber.png in Resources */,
 				B19966B52C9719FA00965D41 /* 1.1.1 App 入口与配置.md in Resources */,
 				B1944C5D2C9BF1F500A37A05 /* multiplatfom_app_2.png in Resources */,
 				B1944C532C9BF1F500A37A05 /* connectablePublisher_1.png in Resources */,
-				B19966CC2C9719FA00965D41 /* 1.2.3 视图样式与行为.md in Resources */,
-				B19966E82C9719FA00965D41 /* 1.2.5 菜单与命令.md in Resources */,
-				B19966EA2C9719FA00965D41 /* 1.3.7 表格（Table）.md in Resources */,
-				B19966D92C9719FA00965D41 /* 1.2.7 自定义视图.md in Resources */,
-				B19966DE2C9719FA00965D41 /* 3.2.2 Publisher 的基本使用（二）.md in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
