@@ -56,6 +56,24 @@ struct ArticleView: View {
                 .ignoresSafeArea(.keyboard, edges: .bottom)
             }
         }
+        .navigationDestination(isPresented: $navigate) {
+            if let article = articles.first(where: {
+                $0.id == linkId
+            }) {
+                ArticleView(article: article)
+            } else {
+                Text("该文章不存在")
+            }
+        }
+        .sheet(isPresented: $present) {
+            if let sample = samples.first(where: {
+                $0.id == linkId
+            }) {
+                SampleView(sample: sample)
+            } else {
+                Text("该代码不存在")
+            }
+        }
         .toolbar {
             ToolbarItem {
                 Button(action: {
@@ -82,24 +100,6 @@ struct ArticleView: View {
                         Image(systemName: "curlybraces")
                     }
                 }
-            }
-        }
-        .navigationDestination(isPresented: $navigate) {
-            if let article = articles.first(where: {
-                $0.id == linkId
-            }) {
-                ArticleView(article: article)
-            } else {
-                Text("该文章不存在")
-            }
-        }
-        .sheet(isPresented: $present) {
-            if let sample = samples.first(where: {
-                $0.id == linkId
-            }) {
-                SampleView(sample: sample)
-            } else {
-                Text("该代码不存在")
             }
         }
         .navigationTitle(article.name)
