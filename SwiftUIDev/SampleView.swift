@@ -107,9 +107,12 @@ struct SampleView: View {
                         }
                     if showSearch {
                         ArticleToolView(keyword: $keyword, controller: controller, onDone: { showSearch = false })
+                            .transition(.move(edge: .bottom))
                             .ignoresSafeArea(.keyboard, edges: .bottom)
                     }
-                }.background().zIndex(showCode ? 1 : -1)
+                }
+                .animation(.easeOut(duration: 0.1), value: showSearch)
+                .background().zIndex(showCode ? 1 : -1)
             }
             .toolbar {
                 ToolbarItem(placement: .navigationBarLeading) {

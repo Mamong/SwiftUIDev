@@ -53,9 +53,11 @@ struct ArticleView: View {
                 ArticleToolView(keyword: $keyword, controller: controller, onDone: {
                     showSearch = false
                 })
+                .transition(.move(edge: .bottom))
                 .ignoresSafeArea(.keyboard, edges: .bottom)
             }
         }
+        .animation(.easeOut(duration: 0.1), value: showSearch)
         .navigationDestination(isPresented: $navigate) {
             if let article = articles.first(where: {
                 $0.id == linkId
